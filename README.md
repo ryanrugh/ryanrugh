@@ -27,7 +27,7 @@ In this organization, you'll discover projects I worked on while mastering my co
 
 ### [ZTM](https://github.com/ZTM-Practice)
 
-In this organization, you'll discover projects I worked on while mastering my coding skills through ZTM. The projects are named according to the ZTM course that they occurred in and the name of the project within that course (for example: JunToSen.RoboFriends relates to the RoboFriends project from The Complete Junior to Senior Web Developer course).
+In this organization, you'll discover projects I worked on while mastering my coding skills through ZTM. The projects are named according to the ZTM course that they occurred in and the name of the project within that course (for example: JunToSen-RoboFriends relates to the RoboFriends project from The Complete Junior to Senior Web Developer course).
 
 
 ### [Personal Projects](https://github.com/Ryan-Personal-Projects)
